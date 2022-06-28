@@ -36,7 +36,7 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 9.group sentiment size by years
 
-
+10.remove unneccesary 
 
 
 
