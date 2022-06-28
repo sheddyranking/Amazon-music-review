@@ -8,8 +8,12 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 3.check dataset info
 
-4.Reviews Preprocessing and Cleaning
-> Check Null values and Fillna
+4.Check Null values and Fillna
+
+5.Deciding on the Nature of the dataset
+
+
+
 
 
 ### Problem statement.
@@ -42,3 +46,12 @@ Description of columns in the file:
 8.unixReviewTime - time of the review (unix time)
 
 9.reviewTime - time of the review (raw)
+
+
+### Deciding on nature of Sentiment
+The sentiments of review is decided on the overall score. It means that
+
+1.if the score is greater than 3, the sentiment is Positive
+2.if the value is less than 3, the sentiment is Negative
+3.and if it is equal to 3, the sentiment is Neutral.
+
