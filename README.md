@@ -14,7 +14,7 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 5.Deciding on the Nature of the dataset
 
->   get overall rating distribution
+>   get overall rating distribution/count
 
 >   combine reviewText and summary and drop the column from the DataFrame.
 
@@ -24,6 +24,9 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 >  apply the function on the sentiment column
 
+>  Sentiment Count
+
+7.Split the date
 
 
 
