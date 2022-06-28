@@ -82,3 +82,5 @@ The sentiments of review is decided on the overall score. It means that
 2.if the value is less than 3, the sentiment is Negative
 3.and if it is equal to 3, the sentiment is Neutral.
 
+
+# TO BE CONTINUED 
