@@ -1,2 +1,2 @@
 # Sentiment-Analysis-Project
-Sentiment Analysis  Project on an Airline Company 
+Sentiment Analysis  Project on Amazon music reviews
