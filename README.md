@@ -1,5 +1,5 @@
-# Amazon music Reviews 
-Sentiment Analysis  Project on Amazon music reviews using Python 
+# Amazon musical Instrument Reviews 
+Sentiment Analysis  Project on Amazon-musical-instrument-review using Python 
 
 ### Project Workflow
 1.import needed libarries 
