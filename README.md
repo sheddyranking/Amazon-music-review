@@ -8,9 +8,17 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 3.check dataset info
 
-4.Check Null values and Fillna
+4.Preprocessing and data cleansing
+
+>Check Null values and Fillna
 
 5.Deciding on the Nature of the dataset
+
+>get overall rating distribution
+
+> combine reviewText and summary and drop the column from the DataFrame.
+
+
 
 
 
