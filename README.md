@@ -18,7 +18,11 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 > combine reviewText and summary and drop the column from the DataFrame.
 
-6.Create Sentiment column using rating.
+6.Create Sentiment column
+
+>  Write a function using rating
+
+> apply the function on the sentiment column
 
 
 
