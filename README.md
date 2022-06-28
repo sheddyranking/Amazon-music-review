@@ -10,7 +10,7 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 4.Preprocessing and data cleansing
 
-> Check Null values and Fillna
+>   Check Null values and Fillna
 
 5.Deciding on the Nature of the dataset
 
@@ -20,13 +20,18 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 6.Create Sentiment column
 
->  Write a function using rating
+>   Write a function using rating
 
->  apply the function on the sentiment column
+>   apply the function on the sentiment column
 
->  Sentiment Count
+>   Sentiment Count
 
 7.Split the date
+
+>   split date and year on semi-colon Delimeter
+
+>   Split date column on Space delimetre.
+
 
 
 
