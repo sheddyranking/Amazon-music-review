@@ -32,6 +32,11 @@ Sentiment Analysis  Project on Amazon music reviews using Python
 
 >   Split date column on Space delimetre.
 
+8.review count distribution over the years
+
+9.group sentiment size by years
+
+
 
 
 
