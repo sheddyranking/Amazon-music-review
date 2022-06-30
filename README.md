@@ -32,7 +32,7 @@ Sentiment Analysis  Project on Amazon-musical-instrument-review using Python
 
 >   Split date column on Space delimetre.
 
-> Drop data Column. 
+> Drop date Column. 
 
 8.review count distribution over the years
 
